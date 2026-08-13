@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "Full-featured AI Video Generator & Storyboard Studio powered by Gemini & Veo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
